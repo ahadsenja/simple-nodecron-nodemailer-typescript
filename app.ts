@@ -17,8 +17,8 @@ class EmailMailer {
     configMail = {
       service: 'gmail',
       auth: {
-        user: 'learns.daniel@gmail.com',
-        pass: '124n13lfcb.112'
+        user: 'youremail@gmail.com',
+        pass: 'youremailpassword'
       }
     };
 
