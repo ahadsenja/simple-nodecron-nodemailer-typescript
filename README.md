@@ -5,10 +5,10 @@ In this case, i just want to explain the simple example of how to use node-cron 
 Typescript for sending scheduled email.
 
 ## How to test this simple app
-1. Just clone this repo ``
+1. Just clone this repo `https://github.com/ahadsenja/simple-nodecron-nodemailer-typescript.git`
 2. Enter to the project directory.
 3. Install the dependencies with `npm install` or `yarn install`.
-4. Open two terminal in your computer or vscode
+4. Open two terminal in your computer or vscode `\n`
   4.1. At the first terminal, run `yarn ts` for compiling .ts into .js file to "build" directory.
   4.2. At the second terminal, run `yarn dev` for running the application.
 
