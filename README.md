@@ -22,3 +22,6 @@ Typescript for sending scheduled email.
 <hr>
 I know this prject is not perfect, and i'm sorry for that,
 but I hope this can be helpful for starting with node-cron and nodemailer as a basic understanding.
+<hr>
+<br>
+I will update this docs file as soon as possible, sorry for the lack.
