@@ -929,9 +929,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"learn cron@workspace:.":
+"learn cron and node mailer simple case@workspace:.":
   version: 0.0.0-use.local
-  resolution: "learn cron@workspace:."
+  resolution: "learn cron and node mailer simple case@workspace:."
   dependencies:
     node-cron: ^3.0.0
     nodemailer: ^6.7.3
