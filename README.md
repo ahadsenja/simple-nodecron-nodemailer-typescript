@@ -18,6 +18,7 @@ Typescript for sending scheduled email.
 - nodemailer ^6.7.3
 - nodemon ^2.0.15
 
+<br>
 <hr>
 I know this prject is not perfect, and i'm sorry for that,
 but I hope this can be helpful for starting with node-cron and nodemailer as a basic understanding.
