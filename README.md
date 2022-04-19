@@ -8,11 +8,11 @@ Typescript for sending scheduled email.
 1. Just clone this repo `https://github.com/ahadsenja/simple-nodecron-nodemailer-typescript.git`
 2. Enter to the project directory.
 3. Install the dependencies with `npm install` or `yarn install`.
-4. Open two terminal in your computer or vscode `\n`
-  4.1. At the first terminal, run `yarn ts` for compiling .ts into .js file to "build" directory.
-  4.2. At the second terminal, run `yarn dev` for running the application.
+4. Open two terminal in your computer or vscode:
+  - At the first terminal, run `yarn ts` for compiling .ts into .js file to "build" directory.
+  - At the second terminal, run `yarn dev` for running the application.
 
-Requirements:
+## Requirements:
 - Typescipt ^4.6.3
 - node-cron ^3.0.0
 - nodemailer ^6.7.3
